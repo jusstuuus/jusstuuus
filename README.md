@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jusstuuus
 - 👀 I’m interested in Discord Bots
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning .js
+- 💞️ I’m looking to collaborate on sth cool
 - 📫 How to reach me idk
 
 <!---
